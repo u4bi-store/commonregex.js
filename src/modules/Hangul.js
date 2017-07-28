@@ -1,0 +1,1 @@
+export const hangul = (value) => /^[\uac00-\ud7a3]*$/g.test(value);
