@@ -20,7 +20,6 @@
   "homepage": "https://github.com/u4bi/commonregex.js#readme",
   "devDependencies": {
     "rollup": "^0.45.2",
-    "rollup-plugin-scss": "^0.3.0",
     "rollup-plugin-uglify": "^2.0.1",
     "uglify-es": "^3.0.26"
   }
