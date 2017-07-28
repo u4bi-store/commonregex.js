@@ -1,1 +1,1 @@
-// app.js
+export { a } from './modules/A';

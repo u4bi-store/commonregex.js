@@ -3,7 +3,7 @@ import { minify } from 'uglify-es';
 
 export default { 
     entry: './src/app.js', 
-    dest: './dist/commonregex.js', 
+    dest: './dist/commonregex.min.js', 
     format: 'umd',
     moduleName: 'commonregex',
     // sourceMap: 'inline',
